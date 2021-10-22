@@ -1,2 +1,2 @@
-https://github.com/shqity/spring-test
-dev12222
+config:
+  info: "main branch,springcloud-config/config-dev.yml version=1"
